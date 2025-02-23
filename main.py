@@ -1,7 +1,7 @@
 import numpy 
 
 def main():
-    print("Hello from numerical-methods!")
+    print("Hello from numerical-methods")
 
 
 if __name__ == "__main__":
